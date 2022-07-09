@@ -1,7 +1,6 @@
 # -- coding: utf-8 --
 # @Time    : 2021/7/13 0013 17:29
 # @Author  : TangKai
-# @Team    : SuperModel
 # @File    : intersection_kz_a.py
 
 """不考虑掉头的路口扩展法"""
